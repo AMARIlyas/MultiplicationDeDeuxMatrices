@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669575343 source:c:\users\igami\desktop\c\matricemultiplication\main.c
+	<stdio.h>
+	<stdlib.h>
+
