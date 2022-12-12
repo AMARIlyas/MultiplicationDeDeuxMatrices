@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 50
-
+// you cna let the define 
 int main()
 {
 
-// Déclaration
+// DÃ©claration
 
     int i,j,M[MAX][MAX],T[MAX][MAX],R[MAX][MAX],l1,c1,somme,a,b,k,l2,c2;
 
@@ -18,7 +18,7 @@ int main()
     scanf("%d",&c1);
 
 
-// 1 saisie des élements de la matrice
+// 1 saisie des Ã©lements de la matrice
 
      for(i = 0 ; i < l1 ; i++)
     {
@@ -52,7 +52,7 @@ int main()
     printf("Veuillez saisir le nbr de colonnes : ");
     scanf("%d",&c2);
 
-// 2 saisie des élements de la matrice
+// 2 saisie des Ã©lements de la matrice
 
      for(i = 0 ; i < l2 ; i++)
     {
@@ -76,7 +76,7 @@ int main()
 
 // -------------------------------------------------------------------
 
-// Condition nécessaire avec calcul du produit
+// Condition nÃ©cessaire avec calcul du produit
 
   if ( c2 == l1){
 
